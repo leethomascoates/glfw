@@ -25,7 +25,7 @@ project "GLFW"
 
 		files
 		{
-			"src/wni32_init.c",
+			"src/win32_init.c",
 			"src/win32_joystick.c",
 			"src/win32_monitor.c",
 			"src/win32_time.c",
